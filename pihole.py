@@ -43,8 +43,8 @@ class pihole_api():
         self._token = token
 
     def get_custom_dns(self):
-        data = self._send()
-        return data
+        r = self._send()
+        return r
     
     def del_custom_dns(self, domain, ip):
         data = {
