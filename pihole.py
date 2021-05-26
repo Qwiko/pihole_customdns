@@ -2,7 +2,7 @@ from requests import Session
 import logging
 
 '''
-Class for PiHole customdns
+Class for Pi-hole customdns
 Usage:
 from pihole import pihole_api
 

@@ -1,5 +1,5 @@
 # pihole_customdns
-PiHole CustomDNS class in Python3
+Pi-hole customDNS class
 
 ### Usage:
 ```
