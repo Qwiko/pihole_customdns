@@ -17,7 +17,7 @@ Outputs a json object like the following:
 { data:
     [
         ["host1.mgmt", "10.0.0.2"],
-        ["host2.mgmt", "10.0.0.2"]
+        ["host2.mgmt", "10.0.0.3"]
     ]
 }
 ```
